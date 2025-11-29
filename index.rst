@@ -5,7 +5,7 @@ To activate My5, My5.tv/activate, sign in, and enter the six-digit code from you
 
 .. image:: get.png
    :alt: My5.tv/activate
-   :target: https://ww0.us/?aHR0cHM6Ly9teTV0dmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://link72.com/?BJor28F04QUJESZRe5NuBXVLEu6hUQZBteFeW7fHLqnyo7ZqiEpK2KBnPMjTcq
 
 
 
